@@ -34,9 +34,7 @@ public class abc {
 				String city = br.readLine();
 				
 				student  st = new student( name , phone , city );
-				System.out.println(st);
-				
-				
+				System.out.println(st);	
 			}
 			if(c == 2)
 			{
